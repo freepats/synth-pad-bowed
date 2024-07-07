@@ -1,0 +1,295 @@
+//+ Name: Synth Pad Bowed
+//+ Date: 2019-07-19
+//+ URL: http://freepats.zenvoid.org/
+
+// Created by Strix Soundfont Team (Roberto for the original .xiz file),
+// ZynAddSubFX (running under Ubuntu Eoan Ermine (development branch)).
+// Published under the terms of the Creative Commons CC0 public domain
+// dedication.
+
+<group>
+ampeg_release=2
+loop_mode=loop_continuous
+ampeg_attack=0.001
+
+<region>
+sample=samples/C2R.flac
+lokey=G1 hikey=Db2
+pitch_keycenter=C2
+pan=100
+tune=-1
+loop_start=235666
+loop_end=408471
+
+<region>
+sample=samples/C2L.flac
+lokey=G1 hikey=Db2
+pitch_keycenter=C2
+pan=-100
+tune=4
+loop_start=112851
+loop_end=408471
+
+<region>
+sample=samples/E2R.flac
+lokey=D2 hikey=F2
+pitch_keycenter=E2
+pan=100
+tune=7
+loop_start=197456
+loop_end=408471
+
+<region>
+sample=samples/E2L.flac
+lokey=D2 hikey=F2
+pitch_keycenter=E2
+pan=-100
+loop_start=205374
+loop_end=408471
+
+<region>
+sample=samples/Ab2R.flac
+lokey=Gb2 hikey=A2
+pitch_keycenter=Ab2
+pan=100
+tune=26
+loop_start=125462
+loop_end=408471
+
+<region>
+sample=samples/Ab2L.flac
+lokey=Gb2 hikey=A2
+pitch_keycenter=Ab2
+pan=-100
+tune=1
+loop_start=33744
+loop_end=408471
+
+<region>
+sample=samples/C3R.flac
+lokey=Bb2 hikey=Db3
+pitch_keycenter=C3
+pan=100
+tune=-1
+loop_start=200123
+loop_end=408471
+
+<region>
+sample=samples/C3L.flac
+lokey=Bb2 hikey=Db3
+pitch_keycenter=C3
+pan=-100
+tune=5
+loop_start=302528
+loop_end=408471
+
+<region>
+sample=samples/E3R.flac
+lokey=D3 hikey=F3
+pitch_keycenter=E3
+pan=100
+tune=3
+loop_start=255399
+loop_end=408471
+
+<region>
+sample=samples/E3L.flac
+lokey=D3 hikey=F3
+pitch_keycenter=E3
+pan=-100
+tune=-2
+loop_start=286857
+loop_end=408471
+
+<region>
+sample=samples/Ab3R.flac
+lokey=Gb3 hikey=A3
+pitch_keycenter=Ab3
+pan=100
+tune=3
+loop_start=174266
+loop_end=408471
+
+<region>
+sample=samples/Ab3L.flac
+lokey=Gb3 hikey=A3
+pitch_keycenter=Ab3
+pan=-100
+tune=3
+loop_start=171702
+loop_end=408471
+
+<region>
+sample=samples/C4R.flac
+lokey=Bb3 hikey=Db4
+pitch_keycenter=C4
+pan=100
+tune=7
+loop_start=168702
+loop_end=408471
+
+<region>
+sample=samples/C4L.flac
+lokey=Bb3 hikey=Db4
+pitch_keycenter=C4
+pan=-100
+tune=2
+loop_start=298405
+loop_end=408471
+
+<region>
+sample=samples/E4R.flac
+lokey=D4 hikey=F4
+pitch_keycenter=E4
+pan=100
+tune=5
+loop_start=113976
+loop_end=408471
+
+<region>
+sample=samples/E4L.flac
+lokey=D4 hikey=F4
+pitch_keycenter=E4
+pan=-100
+tune=-2
+loop_start=278915
+loop_end=408471
+
+<region>
+sample=samples/Ab4R.flac
+lokey=Gb4 hikey=A4
+pitch_keycenter=Ab4
+pan=100
+tune=5
+loop_start=239920
+loop_end=408471
+
+<region>
+sample=samples/Ab4L.flac
+lokey=Gb4 hikey=A4
+pitch_keycenter=Ab4
+pan=-100
+tune=4
+loop_start=216526
+loop_end=408471
+
+<region>
+sample=samples/C5R.flac
+lokey=Bb4 hikey=Db5
+pitch_keycenter=C5
+pan=100
+tune=3
+loop_start=174209
+loop_end=408471
+
+<region>
+sample=samples/C5L.flac
+lokey=Bb4 hikey=Db5
+pitch_keycenter=C5
+pan=-100
+tune=-3
+loop_start=85510
+loop_end=408471
+
+<region>
+sample=samples/E5R.flac
+lokey=D5 hikey=F5
+pitch_keycenter=E5
+pan=100
+loop_start=41849
+loop_end=408471
+
+<region>
+sample=samples/E5L.flac
+lokey=D5 hikey=F5
+pitch_keycenter=E5
+pan=-100
+tune=-2
+loop_start=226324
+loop_end=408471
+
+<region>
+sample=samples/Ab5R.flac
+lokey=Gb5 hikey=A5
+pitch_keycenter=Ab5
+pan=100
+loop_start=288488
+loop_end=408471
+
+<region>
+sample=samples/Ab5L.flac
+lokey=Gb5 hikey=A5
+pitch_keycenter=Ab5
+pan=-100
+tune=-3
+loop_start=217687
+loop_end=408471
+
+<region>
+sample=samples/C6R.flac
+lokey=Bb5 hikey=Db6
+pitch_keycenter=C6
+pan=100
+loop_start=205250
+loop_end=390648
+
+<region>
+sample=samples/C6L.flac
+lokey=Bb5 hikey=Db6
+pitch_keycenter=C6
+pan=-100
+loop_start=209802
+loop_end=390648
+
+<region>
+sample=samples/E6R.flac
+lokey=D6 hikey=F6
+pitch_keycenter=E6
+pan=100
+tune=4
+loop_start=208402
+loop_end=408471
+
+<region>
+sample=samples/E6L.flac
+lokey=D6 hikey=F6
+pitch_keycenter=E6
+pan=-100
+tune=-11
+loop_start=271007
+loop_end=408471
+
+<region>
+sample=samples/Ab6R.flac
+lokey=Gb6 hikey=A6
+pitch_keycenter=Ab6
+pan=100
+tune=-2
+loop_start=240781
+loop_end=388601
+
+<region>
+sample=samples/Ab6L.flac
+lokey=Gb6 hikey=A6
+pitch_keycenter=Ab6
+pan=-100
+tune=2
+loop_start=188337
+loop_end=388601
+
+<region>
+sample=samples/C7R.flac
+lokey=Bb6 hikey=A7
+pitch_keycenter=C7
+pan=100
+tune=9
+loop_start=130081
+loop_end=401727
+
+<region>
+sample=samples/C7L.flac
+lokey=Bb6 hikey=A7
+pitch_keycenter=C7
+pan=-100
+loop_start=203056
+loop_end=401727
